@@ -1,4 +1,4 @@
-declare module '@storybook/addons' {
+declare module '@storybook/manager-api' {
   import { EventEmitter } from 'events';
 
   export interface API {
